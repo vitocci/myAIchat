@@ -1,4 +1,4 @@
-# What's myAIchat?
+# Project myAIchat
 
 Welcome to your new [Mastra](https://mastra.ai/) project! We're excited to see what you'll build.
 
